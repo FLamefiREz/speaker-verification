@@ -16,7 +16,7 @@ CMGAN效果实测优于SpeechBrain提供的两个语音增强模型。
 ## 添加仓库
 
 ```
-git clone https://git.webxtx.com/risk-manager/risk-manager-ai/speaker-verification.git
+git clone https://github.com/FLamefiREz/speaker-verification.git
 cd speaker-verification
 ```
 
