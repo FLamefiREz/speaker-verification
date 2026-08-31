@@ -1,3 +1,5 @@
+
+
 # <div align="center">声纹识别文档</div>
 钟顺民 2023-09-18
 
@@ -30,6 +32,8 @@ python verification.py
 ```python
 python CMGAN/inference.py
 ```
+
+注：当前 `CMGAN/inference.py` 的 `__main__` 部分已注释，需取消注释后才能执行降噪推理。
 
 ## 声纹识别服务
 ```python
